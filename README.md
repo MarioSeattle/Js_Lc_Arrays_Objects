@@ -170,7 +170,7 @@ In this lesson, you will be able to do the following:
     JavaScript’s == operator, when comparing objects, will return true only if both objects are
     precisely the same value.
 
-    
+
 
 
 
